@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey y'all, my name is Marcus Cruz, but I also go by Mark. I'm a student at the University of Texas at Austin studying computer science. My hobbies are photography, video games, hiking, and listening to music.
 
-### More Information
+### About this site
 
-A place to include any other types of information that you'd like to include about yourself.
+For one of the classes I'm taking we were asked to create a website to share our experience while taking the class. So, here we are.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marcus.cruz@utexas.edu](mailto:marcus.cruz@utexas.edu)
