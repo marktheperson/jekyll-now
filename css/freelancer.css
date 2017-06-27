@@ -55,8 +55,11 @@ hr.star-primary {
 }
 header {
   text-align: center;
-  background: #bc8018;
-  color: white;
+  /*background: #bc8018;*/
+  /*color: white;*/
+}
+.home{
+  background-image: url("background.jpg");
 }
 header .container {
   padding-top: 100px;
