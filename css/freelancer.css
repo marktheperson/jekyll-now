@@ -63,7 +63,7 @@ header {
   color: white;
 }
 .home{
-  /*background-image: url("background.jpg");*/
+  background-image: url("background.jpg");
 }
 header .container {
   padding-top: 100px;
@@ -74,11 +74,15 @@ header img {
   margin: 0 auto 20px;
 }
 header .intro-text .name {
+  text-align: center;
   display: block;
   font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
+}
+header .center {
+  text-align: center;
 }
 header .intro-text .skills {
   font-size: 1.25em;
